@@ -47,7 +47,7 @@
 			<br />
 			<br />
 			<div>
-				<asp:GridView ID="GridView1" runat="server" AllowPaging="true" EmptyDataText="No records found"></asp:GridView>
+				<asp:GridView ID="GridView1" runat="server"></asp:GridView>
 			</div>			
         </div>
     </form>
